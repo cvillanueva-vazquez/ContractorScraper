@@ -36,7 +36,7 @@ from email.mime.application import MIMEApplication
 CONFIG = {
     # Get this after SAM.gov entity registration is approved.
     # Public/unregistered tier = 10 requests/day. Registered = 1,000/day.
-    "SAM_API_KEY": os.environ.get("SAM_API_KEY", "YOUR_API_KEY_HERE"),
+    "SAM_API_KEY": os.environ.get("SAM_API_KEY", "SAM-1fea39e9-af84-44f8-9c9d-c9f93c8c9404"),
 
     # NAICS codes for your trades. Add/remove as needed.
     "NAICS_CODES": [
