@@ -41,14 +41,14 @@ CONFIG = {
     # NAICS codes for your trades. Add/remove as needed.
     "NAICS_CODES": [
         "236220",  # Commercial building construction
-        "236118",  # Residential remodeling
+        #"236118",  # Residential remodeling
         "238210",  # Electrical contractors
-        "238220",  # Plumbing/HVAC/AC
-        "238160",  # Roofing
-        "238910",  # Site prep/demolition/excavation
-        "238320",  # Painting
-        "237310",  # Highway/street/bridge
-        "561730",  # Landscaping
+        #"238220",  # Plumbing/HVAC/AC
+        #"238160",  # Roofing
+        #"238910",  # Site prep/demolition/excavation
+        #"238320",  # Painting
+        #"237310",  # Highway/street/bridge
+        #"561730",  # Landscaping
         "238110",  # Concrete/foundation
     ],
 
